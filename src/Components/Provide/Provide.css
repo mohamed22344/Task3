@@ -1,0 +1,22 @@
+.provide{
+    height: 300px;
+    width: 95%;
+    margin: 0 auto ;
+    margin: 20px ;
+
+}
+.provide p ,h1{
+    text-align: center;
+}
+.provide h1{
+    font-size: 46px;
+    width: 300px;
+    margin-left: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.provide p{
+    font-size: 20px;
+    color:orangered;
+    font-weight: bold;
+}

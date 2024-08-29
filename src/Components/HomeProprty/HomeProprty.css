@@ -1,0 +1,43 @@
+.home-proprty{
+    width: 95%;
+    position: relative;
+    background: url("/images/page-heading-bg.jpg") no-repeat;
+    height: 300px;
+    margin:  0 auto;
+
+}
+.home-proprty button{
+    position: absolute;
+    margin-left:560px ;
+    margin-top: 110px;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+}
+.home-proprty h1{
+    color: white;
+    padding: 170px;
+}
+.button-4{
+ display: flex;
+ align-items: center;    
+ justify-content:space-evenly ;
+ padding: 30px;
+margin: 30px;
+}
+
+.button-4 button{
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    box-shadow:  2px 2px 1px gray;
+}
+.first-btn{
+    background-color: orangered;
+}
+.black-btn{
+    background-color: black;
+}
+

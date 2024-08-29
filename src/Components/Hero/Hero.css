@@ -1,0 +1,33 @@
+.hero{
+    position: relative;
+     background: url("/images/banner-01.jpg") no-repeat;
+     height: 130vh;
+     
+}
+
+.toronto{
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 150px;
+    font-size: 18px;
+}
+.hurry{
+    display: flex;
+    position: absolute;
+    /* margin-left: 100px; */
+    margin-top: 220px;
+}
+.toronto h1{
+    color: white;
+    font-size: 70px;
+    margin: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.toronto span{
+    color: tomato ;
+}
+.toronto button{
+    font-size: 18px;
+}

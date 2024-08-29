@@ -1,0 +1,55 @@
+.head-main{
+    margin: 0 auto;
+    width: 95vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.head-part1{
+    display: flex;
+    margin: 10px;
+    gap: 20px;
+}
+.email {
+    display: flex;
+    gap: 10px;
+    margin: 14px;
+}
+.email img{
+    width: 40px;
+    height: 25px;
+    margin-top:-5px ;
+  
+}
+.map {
+    display: flex;
+    gap: 10px;
+    margin: 14px;
+}
+.map img{
+    margin-top: -10px;
+    width: 60px;
+    height: 40px;
+}
+.head-icons ul{
+    margin-right: 90px;
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+span{
+    font-size: 18px;
+    color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+hr{
+    margin-top: -1px;
+
+}
+.m{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+

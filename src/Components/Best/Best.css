@@ -1,0 +1,64 @@
+.best-conteiner{
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin:  10px auto;
+    padding: 30px;
+    padding: 10px;
+    gap: 20px;
+}
+.part-1{
+width: 30%;
+
+}
+.part-2{
+width: 30%;
+margin-left: 100px;
+}
+.part-2 h1{
+    text-align: start;
+    font-size: 40px;
+    font-weight: bold;
+}
+.n{
+    text-align: start;
+    color: rgb(245, 125, 26);
+}
+.part-3{
+    background-color: white;
+    border-radius: 10px;
+width: 30%;
+display: flex;
+justify-content: space-between;
+box-shadow:  2px 2px 2px gray;
+
+}
+.contain3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-top: 30px;
+    gap: 40px;
+}
+.contract{
+    margin-right: 10px;
+}
+.part-2 hr {
+    opacity: 0.2;
+    width: 250px;
+    margin-left: 0px;
+}
+.B{
+    font-weight: bold;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.web p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.blue{
+    color: blue;
+}

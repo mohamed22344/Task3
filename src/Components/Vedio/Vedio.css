@@ -1,0 +1,86 @@
+.video{
+    width: 100%;
+    height: 100vh;
+    background: url(/images/background.jpg) no-repeat ;
+    background-size: cover;
+    position: relative;
+    margin-right: 10px auto;
+}
+.cont{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 550px;
+    text-align: center;
+}
+.cont h4{
+    padding: 20px;
+    font-size: 18px;
+    color: tomato;
+}
+.cont h2{
+    margin: 10px;
+    font-size: 36px;
+    font-weight: 600;
+    color: white;
+}
+
+.video img{
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 240px;
+    padding: 30px;
+    border-radius: 50px;
+}
+.conteiner-box{
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box{
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 47px 38px;
+    background-color: #ffe2d2;
+    border-radius: 10px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+    
+}
+.box-namber{
+    color: orangered;
+    font-size: 46px;
+    font-weight: 600;
+}
+
+.text{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 16px;
+    font-weight: 600;
+    width: 200px;
+    padding: 10px;
+}
+.box .circle{
+    position: absolute;
+    background-color: orangered;
+    width: 60px;
+    height: 60px;
+    top: -20px;
+    right: -8%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+
+}
+
